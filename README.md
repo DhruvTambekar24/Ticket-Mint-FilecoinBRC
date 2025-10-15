@@ -143,10 +143,5 @@ Thanks to:
 
 ---
 
-## 📬 Contact
-
-Made with ❤️ by [@gunjanghate](https://github.com/gunjanghate)
-Open to contributions, feedback, and collaboration!
-
 ```
 
